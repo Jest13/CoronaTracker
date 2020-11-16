@@ -120,7 +120,12 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+
+    // class redirection page boutton liste pay ----> GoTrackCountries
     public void goTrackCountries(View view) {
+
+        startActivity(new Intent(getApplicationContext(),Affectedcountries.class));
+
     }
 }
 
