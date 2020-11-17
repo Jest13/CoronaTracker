@@ -1,6 +1,6 @@
 # CoronaTracker
 
-# Librairie utilisée dans mon projet
+# Librairie utilisées dans mon projet
 
 
 EazeGraph https://github.com/blackfizz/EazeGraph
